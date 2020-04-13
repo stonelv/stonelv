@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+An aged programer woke up at last.
+A practicer of XP and A believer of Agile.
+Hope to contribute my efforts to the sofeware industry.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Working on MS.NET framework now.
+Trying to apply agile.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[lylelv@hotmail.com](mailto:lylelv@hotmail.com)
